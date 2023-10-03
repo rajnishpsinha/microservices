@@ -42,10 +42,6 @@ public class EmployeeInfo {
 				);
 		
 		
-		
-//		localhost:8082/emplDetails/empInfo/901
-		
-	//	EmployeeDetails employeeDetails  = new EmployeeDetails(901,"Ajeeth","Account");
 		return employeeDetails;
 	}
 
